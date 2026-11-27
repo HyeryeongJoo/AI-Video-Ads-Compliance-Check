@@ -4,6 +4,8 @@ TwelveLabs Python SDK를 활용한 크리에이터 영상 광고 컴플라이언
 
 ## Demo
 
+**데모 사이트**: https://d3poj9llxldqq4.cloudfront.net/
+
 아래는 화장품 메이크업 영상을 업로드하여 컴플라이언스 분석을 수행한 실제 결과 화면입니다.
 
 ![Analyze Results](img/block-result-capture.png)

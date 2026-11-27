@@ -4,6 +4,8 @@ Automated compliance review system for creator video ads, powered by the TwelveL
 
 ## Demo
 
+**Live Demo**: https://d3poj9llxldqq4.cloudfront.net/
+
 Below is a screenshot of an actual compliance analysis result after uploading a cosmetics makeup video.
 
 ![Analyze Results](img/block-result-capture.png)
